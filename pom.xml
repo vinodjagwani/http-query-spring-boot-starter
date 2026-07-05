@@ -11,7 +11,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.example.httpquery</groupId>
+    <groupId>org.springframework.boot.httpquery</groupId>
     <artifactId>http-query-spring-boot-starter</artifactId>
     <version>0.1.0</version>
     <packaging>jar</packaging>
